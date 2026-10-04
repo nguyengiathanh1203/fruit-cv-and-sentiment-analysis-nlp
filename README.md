@@ -112,7 +112,7 @@ Predictions displayed strong diagonal concentration across the majority of categ
 ## 4. Topic 2: Sentiment Classification (NLP)
 
 ### 4.1. Dataset & Text Preprocessing
-* **Dataset:** The benchmark *Sentiment Analysis Dataset* by Abdelmalek Eladjelet containing 241,145 user reviews.
+* **Dataset:** The benchmark [*Sentiment Analysis Dataset*](https://www.kaggle.com/datasets/abdelmalekeladjelet/sentiment-analysis-dataset) by Abdelmalek Eladjelet containing 241,145 user reviews.
 * **Label Distribution:**
   * **Positive:** 103,059 samples (42.5%)
   * **Neutral:** 82,972 samples (34.4%)
