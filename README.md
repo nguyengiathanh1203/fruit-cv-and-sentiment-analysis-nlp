@@ -183,7 +183,8 @@ jupyter lab
 ## 7. References
 
 1. H. Mureşan and M. Oltean, *"Fruit recognition from images using deep learning,"* Acta Univ. Sapientiae, Informatica, vol. 10, no. 1, pp. 26–42, 2018.
-2. F. Femling, A. Olsson, and F. Alonso-Fernandez, *"Fruit and Vegetable Identification Using Machine Learning for Retail Applications,"* arXiv:1810.09811, 2018.
-3. J. Brownlee, *"Machine Learning Mastery With Python: Understand Your Data, Create Accurate Models and Work Projects End-To-End,"* Melbourne, VIC, Australia, 2016.
-4. M. Abbas, A. Kamran, Memon, A. A. Jamali, Saleemullah Memon, and Anees Ahmed, *"Multinomial Naive Bayes Classification Model for Sentiment Analysis,"* 2019.
-5. D. Zheng, *"Sentiment Analysis for Film Reviews Based on Random Forest,"* Sci. Technol. Eng. Chem. Environ. Prot., vol. 1, no. 7, June 2024.
+2. Frida Femling, Adam Olsson, Fernando Alonso-Fernandez, “Fruit and Vegetable Identification Using Machine Learning for Retail Applications”, arXiv:1810.09811v1 [cs.CV] 23 Oct 2018.
+3. F. Femling, A. Olsson, and F. Alonso-Fernandez, *"Fruit and Vegetable Identification Using Machine Learning for Retail Applications,"* arXiv:1810.09811, 2018.
+4. J. Brownlee, *"Machine Learning Mastery With Python: Understand Your Data, Create Accurate Models and Work Projects End-To-End,"* Melbourne, VIC, Australia, 2016.
+5. M. Abbas, A. Kamran, Memon, A. A. Jamali, Saleemullah Memon, and Anees Ahmed, *"Multinomial Naive Bayes Classification Model for Sentiment Analysis,"* 2019.
+6. D. Zheng, *"Sentiment Analysis for Film Reviews Based on Random Forest,"* Sci. Technol. Eng. Chem. Environ. Prot., vol. 1, no. 7, June 2024.
